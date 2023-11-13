@@ -2,3 +2,13 @@ node_modules
 _eslintrc.json
 _prettierrc.json
 
+/.idea/.gitignore
+/.idea/jsLinters/eslint.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/prettier.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/udemy-REACT-QUERY.iml
+/.idea/vcs.xml
+base-blog-em/package-lock.json
+base-blog-em/package.json
